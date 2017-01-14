@@ -12,6 +12,12 @@ date
 allotted-time
 :   15m
 
+# 自己紹介
+
+- 西山和広
+- id:znz (github, twitter など)
+- Ruby コミッター
+
 # `frozen_string_literal` とは?
 
 - ruby 2.3.0 以降
